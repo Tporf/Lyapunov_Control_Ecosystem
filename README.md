@@ -73,7 +73,7 @@ Where:
 
 ## Lyapunov-Based Control
 
-To stabilize the system to a desired target state ![target](images/equation.png), we employ Lyapunov-based feedback control. The Lyapunov function is chosen as a quadratic energy function:
+To stabilize the system to a desired target state ![target](images/equation.jpg), we employ Lyapunov-based feedback control. The Lyapunov function is chosen as a quadratic energy function:
 
 $$
 V(x) = (x - x^*)^T Q (x - x^*)
