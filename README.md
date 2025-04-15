@@ -107,8 +107,3 @@ $$ V(x) = (f - f^*)^2 + (p - p^*)^2 + (r - r^*)^2 $$
 The system is implemented using a modular, class-based structure with clear responsibilities:
 
 ---
-
-### `Plant` and `Ecosystem`
-
-- `Plant`: An abstract class defining the structure of a dynamical system.
-- `Ecosystem`: Inherits from `Plant`. Implements the specific nonlinear dynamics:
