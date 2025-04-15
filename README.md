@@ -3,7 +3,7 @@ Lyapunov Control of Predator_Prey_Food Ecosystem
 
 ---
 
-## Problem Descriptio
+## Problem Description
 
 We simulate and control a simplified ecosystem using a dynamical systems framework. The ecosystem consists of three interacting populations:
 
